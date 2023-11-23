@@ -1,0 +1,10 @@
+// POST: create user
+{
+    "name":"admin",
+    "email":"admin@gmail.com",
+    "password":"Admin@12345",
+    "month":"june",
+    "date":"6",
+    "year":"2004",
+    "gender":"male"
+}

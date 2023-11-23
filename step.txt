@@ -1,0 +1,17 @@
+1. initialise server
+npm init --yes 
+
+2. install dependencies
+    -express, mongoose, dotenv, nodemon
+
+npm i express mongoose dotenv nodemon
+
+3. 
+    -jsonwebtoken, joi, joi-password-complexity
+
+npm i jsonwebtoken joi joi-password-complexity
+
+4.
+    -bcrypt, cors express-async-errors
+
+npm i bcrypt cors express-async-errors
